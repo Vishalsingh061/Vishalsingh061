@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **vishalpratap906@gmail.com**
 
-- ⚡ Fun fact **I once created a browser extension that replaces all images on a webpage with pictures of cats, just for fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
